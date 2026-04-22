@@ -1,5 +1,6 @@
 .env
 venv/
+db/data.db
 
 # Python cache
 __pycache__/
